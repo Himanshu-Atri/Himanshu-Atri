@@ -1,5 +1,6 @@
-Hello there! 👋 I'm a passionate programmer currently pursuing my studies at VGU College. My journey in the world of coding has led me to develop expertise in a variety of technologies. I thrive in creating dynamic and user-friendly interfaces, and my skill set includes proficiency in Flutter for cross-platform app development, along with a solid foundation in HTML, CSS, Bootstrap, JavaScript, and Java. I'm on a constant quest to learn and explore new technologies to enhance my programming prowess. Let's connect and collaborate on exciting projects! 🚀💻
+Hello! I'm Himanshu Atri, a BCA student specializing in AI/ML at Vivekananda Global University. I'm passionate about artificial intelligence and have honed my skills in deep learning and machine learning. With a keen interest in developing lightweight apps and websites, I enjoy creating innovative solutions that blend technology and creativity. Let's collaborate and explore the world of AI together!
 
+---
 
 📫 reach mea at atrihimanshu8@gmail.com
 
